@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conversation>
+  <chat>
+    <id>0</id>
+    <name>admin</name>
+    <time>Beginning of time</time>
+    <message>Here is the beginning of your conversation</message>
+  </chat>
+</conversation>
